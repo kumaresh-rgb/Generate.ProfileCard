@@ -1,0 +1,70 @@
+
+
+body{
+ background-image: linear-gradient(to right top, #14163e, #1a1e57, #202571, #272d8c, #3034a7, #3336ad, #3537b4, #3839ba, #3436ac, #2f329e, #2c2f90, #282b82);
+ justify-content:center;
+ align-items: center;
+ display: flex;
+ margin-top: 90px;
+ font-size: 12px;
+ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+ border-radius:10px ;
+ -webkit-border-radius:10px ;
+ -moz-border-radius:10px ;
+ -ms-border-radius:10px ;
+ -o-border-radius:10px ;
+ 
+}
+.ui-comments2{
+    position: relative;
+    animation-name: example;
+    animation-duration: 4s;
+}
+
+@keyframes example {
+    0%   { left:0px; top:0px;}
+    25%  { transform:translatey(400px) ; -webkit-transform:translatey(400px) ; -moz-transform:translatey(400px) ; -ms-transform:translatey(400px) ; -o-transform:translatey(400px) ; }
+    75%  { right:0px; top:0px;}
+    100% { left:0px; top:0px;}
+  }
+  
+  .ui-comments3{
+    position: relative;
+    animation-name: example;
+  
+    animation-duration: 4s;
+}
+
+@keyframes example {
+    0%   { left:0px; top:0px;}
+    25%  { transform:translatey(500px) ; -webkit-transform:translatey(500px) ; -moz-transform:translatey(500px) ; -ms-transform:translatey(500px) ; -o-transform:translatey(500px) ; }
+    75%  { right:0px; top:0px;}
+    100% { left:0px; top:0px;}
+  }
+  
+  .ui-comments4{
+    position: relative;
+    animation-name: example;
+    animation-duration: 4s;
+}
+
+@keyframes example {
+    0%   { left:0px; top:0px;}
+    25%  { transform:translatey(400px) ; -webkit-transform:translatey(400px) ; -moz-transform:translatey(400px) ; -ms-transform:translatey(400px) ; -o-transform:translatey(400px) ; }
+    75%  { right:0px; top:0px;}
+    100% { left:0px; top:0px;}
+  }
+  
+  .ui-comments5{
+    position: relative;
+    animation-name: example;
+    animation-duration: 4s;
+}
+
+@keyframes example {
+    0%   { left:0px; top:0px;}
+    25%  { transform:translatey(400px) ; -webkit-transform:translatey(400px) ; -moz-transform:translatey(400px) ; -ms-transform:translatey(400px) ; -o-transform:translatey(400px) ; }
+    75%  { right:0px; top:0px;}
+    100% { left:0px; top:0px;}
+  }
+  
